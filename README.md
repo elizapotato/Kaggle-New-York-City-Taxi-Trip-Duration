@@ -1,7 +1,7 @@
 # New York City Taxi Trip Duration
 В данном репозитории располагается [Notebook](https://github.com/sexypotato/nyc_taxi_project/blob/main/nyc-taxi-project.ipynb), в котором построена модель пресказания длительности поездки на такси в городе Нью-Йорк.
 
-Также имеется тех. задание и отчет по проделанной работе.
+Также имеется [тех. задание](https://github.com/sexypotato/nyc_taxi_project/blob/main/Tekhnicheskoe_Zadanie_Po_Proektu_932210_korolyov_chegodaeva.pdf) и [отчет](https://github.com/sexypotato/nyc_taxi_project/blob/main/Otchyot_Po_Proektu_932210_korolev_chegodaeva.pdf) по проделанной работе.
 
 Данные, на основе которых создавалось предсказание:
 - [New York City Taxi Trip Duration](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data)
