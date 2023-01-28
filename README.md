@@ -7,3 +7,6 @@
 - [New York City Taxi Trip Duration](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data)
 - [Weather data in New York City - 2016](https://www.kaggle.com/datasets/mathijs/weather-data-in-new-york-city-2016)
 - [NY Fastest Routes](https://www.kaggle.com/datasets/nicholascomuni/nyfastestroutes)
+
+По результатам соревнования получен следующий Score:
+![image](https://user-images.githubusercontent.com/42829488/215287791-f64c9331-cc34-48f5-9dfd-157bfac7e449.png)
